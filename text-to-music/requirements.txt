@@ -1,2 +1,5 @@
 textblob
-MIDIUtil 
+MIDIUtil
+vaderSentiment
+spacy
+transformers 
